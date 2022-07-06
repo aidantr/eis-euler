@@ -1,1 +1,1 @@
-# eis-euler
+# EIS Euler Equation
